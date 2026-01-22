@@ -1,0 +1,21 @@
+body {
+    background-color: #cc2929;
+}
+
+h1 {
+    color: olivedrab;
+}
+
+.container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+#result h3 {
+    margin-top: 10px;
+}
+
+#result p {
+    margin: 5px 0;
+}
